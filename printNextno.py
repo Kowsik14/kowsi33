@@ -1,4 +1,4 @@
-number=int(input(''))
-print (number)
-nextnumber=number+1
-print (nextnumber)
+originalno=int(input(''))
+print (originalno)
+resultantnumber=originalno+1
+print (resultantnumber)
